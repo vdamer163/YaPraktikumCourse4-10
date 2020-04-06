@@ -1,5 +1,5 @@
 # Yandex.Praktikum Course 4 Project work 10 
-v0.0.1
+v0.0.3
 
 ## Description
 This project was created to get skills in working with GIT and to develop skills in writing regular expression templates.
