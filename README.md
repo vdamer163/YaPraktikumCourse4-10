@@ -16,7 +16,7 @@ This project was created to get skills in working with GIT and to develop skills
 CSS, HTML, GIT
 
 ## How it works
-<https://vdamer163.github.io/YaPraktikumCourse4-10/>
+[Link](https://vdamer163.github.io/YaPraktikumCourse4-10/)
 
 ## Usage
 Just upload the repository to your device and run index.html
